@@ -14,4 +14,3 @@
 git config --global user.name "ваше имя"
 git config --global user.email "email@example.com"
 ```
-
